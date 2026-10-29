@@ -1,75 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c1c,100:3b3a36&height=140&section=header&text=yuundu&fontColor=e8e2d0&fontSize=48&fontAlign=50&fontAlignY=45&desc=slow%20code%20%C2%B7%20warm%20bread%20%C2%B7%20small%20servers&descSize=15&descAlignY=72&descAlign=50" width="100%" alt="yuundu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=200&section=header&text=yuundu&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=self-hosting%20%C2%B7%20baking%20%C2%B7%20AI%20agents&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="yuundu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3200&pause=900&color=A89F8A&center=true&vCenter=true&width=520&lines=hello%2C+stranger.;i+make+small+things+for+the+internet.;and+bread.+mostly+bread.;currently+self-hosting+on+a+mac+mini+%E2%98%95" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=480&lines=Building+small+things+for+the+web;Self-hosting+on+a+Mac+mini;Baking+bread+%26+AI+agents" alt="Typing SVG" />
 
-</div>
+<br/>
 
-```
-  ◐  dong3789  ·  est. 2019  ·  analog-ish
-  ─────────────────────────────────────────
-     35mm 감성으로 코드를 굽는 사람
-```
+맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.<br/>
+I self-host small web projects on a Mac mini under <b>yndl.dev</b>, bake bread, and tinker with AI agents.
 
-### ~/now
+<br/>
 
-```txt
-> brewing    sourdough & ciabatta — 발효는 기다림의 예술
-> hosting    a mac mini in the corner, behind cloudflare tunnel
-> tinkering  ai agents that do the boring parts
-> making     tiny macos desktop toys, just because
-```
+### 🛠 Tech Stack
 
-### ~/stack
+<img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,vue,swift,rust,kotlin,java,html,css,mysql,sqlite,docker,cloudflare,apple,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
 
-<p>
-  <img src="https://img.shields.io/badge/python-2b2b2b?style=flat-square&logo=python&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/php-2b2b2b?style=flat-square&logo=php&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/laravel-2b2b2b?style=flat-square&logo=laravel&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/javascript-2b2b2b?style=flat-square&logo=javascript&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/typescript-2b2b2b?style=flat-square&logo=typescript&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/swift-2b2b2b?style=flat-square&logo=swift&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/sqlite-2b2b2b?style=flat-square&logo=sqlite&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/mysql-2b2b2b?style=flat-square&logo=mysql&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/cloudflare-2b2b2b?style=flat-square&logo=cloudflare&logoColor=d6d0c4" />
-  <img src="https://img.shields.io/badge/macos-2b2b2b?style=flat-square&logo=apple&logoColor=d6d0c4" />
-</p>
+<br/><br/>
 
-### ~/side-projects
+### 🚀 Side Projects
 
-| | | |
-|---|---|---|
-| 💬 | [**그래톡**](https://talk.yndl.dev) | 익명 · E2EE · 랜덤 채팅. 말 걸어도 아무도 모름 |
-| 📚 | [**독서 후 토론**](https://book.yndl.dev) | 책 한 권, 생각 여러 개 |
-| 🥖 | [**니빵내빵**](https://nibbang.yndl.dev) | 빵 굽기 기록장. 실패작도 기록함 |
-| 🍳 | [**요리 레시피**](https://recipe.yndl.dev) | 내가 먹으려고 만든 레시피 노트 |
+| Project | Description |
+|:---:|:---|
+| 💬 [**그래톡**](https://talk.yndl.dev) | 익명 E2EE 랜덤 채팅 · Anonymous end-to-end encrypted random chat |
+| 📚 [**book.yndl.dev**](https://book.yndl.dev) | 독서 기록과 토론 · Reading notes & discussion |
+| 🥖 [**니빵내빵**](https://nibbang.yndl.dev) | 베이킹 기록장 · Baking log |
+| 🍳 [**recipe.yndl.dev**](https://recipe.yndl.dev) | 레시피 노트 · Recipe notes |
 
-### ~/desk-toys
+<br/>
 
-> 쓸모는 없지만 귀여운 것들. macOS 바탕화면 거주민.
+### 📊 GitHub Stats
 
-- [`TypePet`](https://github.com/dong3789/TypePet) — 키 입력마다 움직이는 바탕화면 펫
-- [`jellyfish`](https://github.com/dong3789/jellyfish) — 바탕화면을 헤엄치는 해파리 🪼
-- [`desktop-toys`](https://github.com/dong3789/desktop-toys) — 날씨 창문 & 화분 위젯 🪴
-- [`DIY-TrueTone`](https://github.com/dong3789/DIY-TrueTone) — iPhone 센서로 Mac 색온도 자동 보정
-- [`daily-samgukji`](https://github.com/dong3789/daily-samgukji) — 출근길 삼국지, 매일 아침 텔레그램으로
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dong3789&theme=tokyonight" width="100%" alt="Profile details" />
 
-### ~/stats
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dong3789&theme=tokyonight" alt="Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dong3789&theme=tokyonight" alt="Top languages" />
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dong3789&theme=gruvbox" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dong3789&theme=gruvbox" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=dong3789&hide_border=true&background=1C1C1C&ring=A89F8A&fire=D6D0C4&currStreakLabel=E8E2D0&sideLabels=A89F8A&currStreakNum=E8E2D0&sideNums=E8E2D0&dates=6E6A60&stroke=3B3A36" />
-</div>
+<img src="https://streak-stats.demolab.com?user=dong3789&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
----
-
-<div align="center">
-
-<sub>`made slowly, on film, with too much coffee.` · 오늘도 반죽은 부풀고 커밋은 쌓인다 ☕🥖</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b3a36,100:1c1c1c&height=6&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
