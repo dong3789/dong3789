@@ -2,30 +2,43 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=200&section=header&text=yuundu&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=self-hosting%20%C2%B7%20baking%20%C2%B7%20AI%20agents&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="yuundu" />
 
-맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.<br/>
-I self-host small web projects on a Mac mini under <b>yndl.dev</b>, bake bread, and tinker with AI agents.
+백엔드 개발자입니다. 구독·결제 시스템을 처음부터 만들고, 웹훅·큐로 이벤트를 안정적으로 처리합니다.<br/>
+맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.
 
-🌱 지금은 KANT 피지컬 AI 커리큘럼을 AI와 함께 독학 중입니다.
+### What I Do
+
+- **구독·결제 시스템** — 설계부터 구축·운영까지 (NestJS, TypeScript)
+- **웹훅·큐 기반 이벤트 처리** — 정합성 보장, 중복 제거 (BullMQ, Redis)
+- **AI 개인화 추천·자연어 검색** (EmbeddingGemma, Python)
+- **Shopify 해외몰** — 리뉴얼과 섹션 모듈화 (Liquid)
+- **미디어 최적화·속도 개선** (H.265, S3, CDN)
+- **모니터링·장애 대응** (Playwright, Datadog, Sentry)
+
+### 가장 공들인 프로젝트
+
+**Smile Subscription Platform** — 비엠스마일 · 2023.06–2025.06
+
+구독 플랫폼을 처음부터 만들었습니다.
+
+- 5만+ 건의 구독 데이터 무중단 이관
+- 웹훅은 DB에 먼저 저장하고 주문 단위로 중복 제거
+- 재구독 시 등급 이월은 Redlock으로 동시성 제어
+- NestJS · EKS · Terraform · BullMQ · Redis · Sentry
+
+### 대표 프로젝트
+
+| Project | Description |
+|:---:|:---|
+| 💬 [**그래톡**](https://talk.yndl.dev) | 익명 E2EE 랜덤 채팅 |
+| 📚 [**book.yndl.dev**](https://book.yndl.dev) | 독서 기록과 토론 |
+| 🥖 [**니빵내빵**](https://nibbang.yndl.dev) | 베이킹 기록장 |
+| 🍳 [**recipe.yndl.dev**](https://recipe.yndl.dev) | 레시피 노트 |
+| 🤖 [**physical-ai-self-study**](https://github.com/dong3789/physical-ai-self-study) | KANT 피지컬 AI 커리큘럼 기반 AI 독학 로드맵 |
+| 🚗 [**wake-drive**](https://github.com/dong3789/wake-drive) | 졸음운전 방지 차량용 앱 · 현대차·기아 공모전 출품작 ([live demo](https://dong3789.github.io/wake-drive/)) |
 
 ### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,vue,swift,rust,kotlin,java,html,css,mysql,sqlite,docker,cloudflare,apple,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
-
-### 🚀 Side Projects
-
-| Project | Description |
-|:---:|:---|
-| 💬 [**그래톡**](https://talk.yndl.dev) | 익명 E2EE 랜덤 채팅 · Anonymous end-to-end encrypted random chat |
-| 📚 [**book.yndl.dev**](https://book.yndl.dev) | 독서 기록과 토론 · Reading notes & discussion |
-| 🥖 [**니빵내빵**](https://nibbang.yndl.dev) | 베이킹 기록장 · Baking log |
-| 🍳 [**recipe.yndl.dev**](https://recipe.yndl.dev) | 레시피 노트 · Recipe notes |
-
-### 📌 Featured
-
-| Project | Description |
-|:---:|:---|
-| 🤖 [**physical-ai-self-study**](https://github.com/dong3789/physical-ai-self-study) | KANT 피지컬 AI 커리큘럼 기반 AI 독학 로드맵 · ROS2, SLAM, VLA |
-| 🚗 [**wake-drive**](https://github.com/dong3789/wake-drive) | 졸음운전 방지 차량용 앱 · 현대차·기아 공모전 출품작 ([live demo](https://dong3789.github.io/wake-drive/)) |
 
 ### 📊 GitHub Stats
 
