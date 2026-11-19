@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=200&section=header&text=yuundu&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=self-hosting%20%C2%B7%20baking%20%C2%B7%20AI%20agents&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="yuundu" />
 
 백엔드 개발자입니다. 구독·결제 시스템을 처음부터 만들고, 웹훅·큐로 이벤트를 안정적으로 처리합니다.<br/>
-맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.
+맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.<br/>
+📝 블로그: [yndl.dev](https://yndl.dev)
 
 ### What I Do
 
