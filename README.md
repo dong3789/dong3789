@@ -29,10 +29,6 @@
 
 | Project | Description |
 |:---:|:---|
-| 💬 [**그래톡**](https://talk.yndl.dev) | 익명 E2EE 랜덤 채팅 |
-| 📚 [**book.yndl.dev**](https://book.yndl.dev) | 독서 기록과 토론 |
-| 🥖 [**니빵내빵**](https://nibbang.yndl.dev) | 베이킹 기록장 |
-| 🍳 [**recipe.yndl.dev**](https://recipe.yndl.dev) | 레시피 노트 |
 | 🤖 [**physical-ai-self-study**](https://github.com/dong3789/physical-ai-self-study) | KANT 피지컬 AI 커리큘럼 기반 AI 독학 로드맵 |
 | 🚗 [**wake-drive**](https://github.com/dong3789/wake-drive) | 졸음운전 방지 차량용 앱 · 현대차·기아 공모전 출품작 ([live demo](https://dong3789.github.io/wake-drive/)) |
 
