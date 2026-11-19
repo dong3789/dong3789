@@ -25,12 +25,6 @@
 재구독 시 등급 이월은 Redlock으로 동시성 제어<br/>
 NestJS · EKS · Terraform · BullMQ · Redis · Sentry
 
-### 대표 프로젝트
-
-| Project | Description |
-|:---:|:---|
-| 🚗 [**wake-drive**](https://github.com/dong3789/wake-drive) | 졸음운전 방지 차량용 앱 · 현대차·기아 공모전 출품작 ([live demo](https://dong3789.github.io/wake-drive/)) |
-
 ### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,vue,swift,rust,kotlin,java,html,css,mysql,sqlite,docker,cloudflare,apple,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
