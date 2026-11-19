@@ -20,10 +20,10 @@
 
 구독 플랫폼을 처음부터 만들었습니다.
 
-- 5만+ 건의 구독 데이터 무중단 이관
-- 웹훅은 DB에 먼저 저장하고 주문 단위로 중복 제거
-- 재구독 시 등급 이월은 Redlock으로 동시성 제어
-- NestJS · EKS · Terraform · BullMQ · Redis · Sentry
+5만+ 건의 구독 데이터 무중단 이관<br/>
+웹훅은 DB에 먼저 저장하고 주문 단위로 중복 제거<br/>
+재구독 시 등급 이월은 Redlock으로 동시성 제어<br/>
+NestJS · EKS · Terraform · BullMQ · Redis · Sentry
 
 ### 대표 프로젝트
 
