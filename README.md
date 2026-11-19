@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=200&section=header&text=yuundu&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=self-hosting%20%C2%B7%20baking%20%C2%B7%20AI%20agents&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="yuundu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=200&section=header&text=yuundu&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=self-hosting%20%C2%B7%20baking&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="yuundu" />
 
 백엔드 개발자입니다. 구독·결제 시스템을 처음부터 만들고, 웹훅·큐로 이벤트를 안정적으로 처리합니다.<br/>
-맥 미니 한 대로 작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽고, AI 에이전트를 만듭니다.<br/>
+작은 웹 서비스들을 셀프 호스팅하고, 빵을 굽습니다.<br/>
 📝 블로그: [yndl.dev](https://yndl.dev)
 
 ### What I Do
 
-- **구독·결제 시스템** — 설계부터 구축·운영까지 (NestJS, TypeScript)
-- **웹훅·큐 기반 이벤트 처리** — 정합성 보장, 중복 제거 (BullMQ, Redis)
-- **AI 개인화 추천·자연어 검색** (EmbeddingGemma, Python)
-- **Shopify 해외몰** — 리뉴얼과 섹션 모듈화 (Liquid)
-- **미디어 최적화·속도 개선** (H.265, S3, CDN)
-- **모니터링·장애 대응** (Playwright, Datadog, Sentry)
+**구독·결제 시스템** — 설계부터 구축·운영까지<br/>
+**웹훅·큐 기반 이벤트 처리** — 정합성 보장, 중복 제거<br/>
+**AI 개인화 추천·자연어 검색**<br/>
+**Shopify 해외몰** — 리뉴얼과 섹션 모듈화<br/>
+**모니터링·장애 대응**
 
 ### 가장 공들인 프로젝트
 
@@ -30,7 +29,6 @@
 
 | Project | Description |
 |:---:|:---|
-| 🤖 [**physical-ai-self-study**](https://github.com/dong3789/physical-ai-self-study) | KANT 피지컬 AI 커리큘럼 기반 AI 독학 로드맵 |
 | 🚗 [**wake-drive**](https://github.com/dong3789/wake-drive) | 졸음운전 방지 차량용 앱 · 현대차·기아 공모전 출품작 ([live demo](https://dong3789.github.io/wake-drive/)) |
 
 ### 🛠 Tech Stack
