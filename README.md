@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="33%">
       <strong>🤖 AI Engineering</strong><br/><br/>
-      <sub>LLM 파이프라인, 자연어 검색·추천,<br/>사내 AI 워크플로우 구축</sub>
+      <sub>LLM 파이프라인 · 자연어 검색<br/>사내 AI 워크플로우 구축</sub>
     </td>
     <td align="center" width="33%">
       <strong>🚀 Product Building</strong><br/><br/>
